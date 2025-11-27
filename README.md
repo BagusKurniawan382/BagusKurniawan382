@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/BagusKurniawan382/BagusKurniawan382/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagusKurniawan382/BagusKurniawan382/output/pacman-contribution-graph-dark.svg">
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BagusKurniawan382/BagusKurniawan382/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />

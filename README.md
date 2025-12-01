@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/BagusKurniawan382/BagusKurniawan382/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/BagusKurniawan382/BagusKurniawan382/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- ###
 
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
+<!-- ### -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=github,wordpress,photoshop,xd,figma,mysql,net,alpinejs,bootstrap,express,jquery,markdown,nodejs,npm,postman,visualstudio,vscode,cs,css,html,js,php,react,windows,powershell,git&theme=)](https://skillicons.dev) -->
 
